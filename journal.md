@@ -4,16 +4,26 @@ January 30th 2020
 
 1. **What did we do?**
 
-We created an algorithm that gave very detailed instructions on how to prepare a jam sandwich.
+  We created an algorithm that gave very detailed instructions on how to prepare a jam sandwich.
 
 1. **What did you learn?**
 
-I learned that instructions on algorithms always have to be as detailed as possible for the computer to do them.
+  I learned that instructions on algorithms always have to be as detailed as possible for the computer to do them.
 
 1. **What questions do I have?**
 
-I'd like to knows how to do a circle 
+  I'd like to knows how to do a circle.
 
 February 6th 2020
 
 1. **What did we do?**
+
+We coded in python and experimented with shapes, colors, lines etc.
+
+1. **What did you learn?**
+
+I learned that there's many small details that you have to be careful with when coding otherwise what you want to achieve at the end will either be completely changed or won't appear at all due to a coding error.
+
+1. **What questions do I have?**
+
+What is the difference between different coding languages such as java or python and what are there different purposes?
