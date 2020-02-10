@@ -28,4 +28,16 @@ February 6th 2020
 
 1. **What questions do I have?**
 
-  What is the difference between different coding languages such as java or python and what are there different purposes?
+  What is the difference between different coding languages such as java or python and what are their different purposes?
+  
+  
+  
+  February 10th 2020
+  
+  1. **What did we do?**
+  
+  We learned in python how to make a dice that shows numbers from one to six randomely each time we click it. Then, we made a game where there was one number from the dice that appeared more than the others, switched each other's laptops, and each team had to guess which number appeared more often on the dice and if you guessed right before the other teams, you won a prize.
+  
+  1. **What did you learn?**
+  
+  I learned that when coding, at least in python, you use a lot of shortened up terms that each mean something very specific. For example, 'def' is short for "define". It's a keyword that you need to define a function
