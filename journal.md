@@ -62,5 +62,12 @@ February 20th 2020
 3. **What questions do you have**
      
        In order to make appear something,  do you always have to remember the codes/formulas for them? 
+       
+       
+       
+March 2nd 2020
+
+1. **What did we do
+
 
 
