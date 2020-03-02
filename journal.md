@@ -71,11 +71,11 @@ March 2nd 2020
 
        We created an account on tinkercad and then made three lights blink by connecting wires between the Arduino & breadboard                by connecting them to the led and anode, lastly to make the light blinks, we coded them. Then we added our work to our                  repository. 
        
-2.**What did you learn?** 
+2. **What did you learn?** 
 
        I learned how to make lights blink on tinkercad then upload the screenshot of it on my repisotory. Overall it gave me a better          idea of why we're doing what we're doing and allowed me to understand how to use my repisotory better.
        
-3.**What questions do you have**
+3. **What questions do you have**
   
        What is tinkercad? What will our repisotory look like by the end of the year?
        
