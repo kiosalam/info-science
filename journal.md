@@ -67,7 +67,7 @@ February 20th 2020
        
 March 2nd 2020
 
-1. **What did we do
+1. **What did we do**
 
 
 
