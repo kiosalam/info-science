@@ -50,11 +50,12 @@ February 10th 2020
      
 February 20th 2020
   
-1.**What did we do**
+1. **What did we do**
   
        First we wrote down precise steps in order to draw a chess board. Then, we coded in python to make appear the chess board.
-       At the end each time we clicked
+       At the end each time we clicked.
 
-2.**What did you learn?**
+2. **What did you learn?**
 
-      I learned that
+       I learned how to make an optical illusion in python and that it's simpler than I thought.
+3. **    
